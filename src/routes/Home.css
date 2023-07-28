@@ -1,0 +1,14 @@
+.container{
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.container h1{
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+
+}
